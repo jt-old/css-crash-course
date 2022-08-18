@@ -2,7 +2,7 @@
 
 The contents of this course are derived from the CSS Crash Course located on The Codevolution YouTube Page: [CSS Crash Course](https://www.youtube.com/watch?v=Icf5D3fEKbM&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=2)
 
-## Timestamps\
+## Timestamps
 
 00:00 Introduction \
 00:26 Before we begin\
@@ -29,7 +29,7 @@ I highly recommend checking out all of the Codevolution videos. Links to all of 
 
 ### [The Codevolution Channel](https://www.youtube.com/c/Codevolution)
 
-#### Crash Course Videos
+### Crash Course Videos
 
 - [HTML Crash Course](https://www.youtube.com/watch?v=N8YMl4Ezp4g&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=1)
 - [CSS Crash Course](https://www.youtube.com/watch?v=Icf5D3fEKbM&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=2)
